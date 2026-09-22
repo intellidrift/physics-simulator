@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CA1805: Не делайте лишних инициализаций
+dotnet_diagnostic.CA1805.severity = none
